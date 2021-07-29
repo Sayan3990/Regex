@@ -7,10 +7,6 @@
   ```
 
 ### URL Validation
-- With or without http(s) 
-  ```JS
-  /(http(s)?://)?([\w-]+\.)+[\w-]+[.com]+(/[/?%&=]*)?/
-  ```
 - Any URL 
   ```JS 
   /((www\.|(http|https|ftp|news|file)+\:\/\/)[_.a-z0-9-]+\.[a-z0-9\/_:@=.+?,##%&~-]*[^.|\'|\# |!|\(|?|,| |>|<|;|\)])/ 
