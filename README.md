@@ -1,5 +1,5 @@
 # Regex
-Regex ![CheatSheet](https://github.com/Sayan3990/Regex/tree/main/CheatSheet) and Impotent ![Regular Expressions](https://github.com/Sayan3990/Regex/tree/main/Regular-Expressions)
+Regex [CheatSheet](https://github.com/Sayan3990/Regex/tree/main/CheatSheet) and Impotent [Regular Expressions](https://github.com/Sayan3990/Regex/tree/main/Regular-Expressions)
 
 ## Regular Expressions
 - Email
