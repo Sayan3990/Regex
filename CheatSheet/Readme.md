@@ -1,5 +1,7 @@
-Metacharacters Meaning
-\a Alert
+| Metacharacters | Meaning |
+| ----- | ----- |
+| \a | Alert | 
+
 \b Backspace
 \n Newline
 \r Carriage return
@@ -45,4 +47,4 @@ capture group
 *? Match 0 or more times, but a few times as possible
 +? Match 1 or more times, but a few times as possible
 ?? Match 0 or 1 times, but as few times as possible
-{x,y}? Match at least x times, no more than y times, and as few times as possibl
+{x,y}? Match at least x times, no more than y times, and as few times as possible
