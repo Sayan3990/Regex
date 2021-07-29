@@ -36,8 +36,7 @@
 | (?#...) | Treat substring as a comment |
 | #... | Rest of the line is treated as a comment in x mode |
 | (...) | Group subpattern and capture submatch into \1, \2, .. |
-| \n | Contains the result of nth earlier submatch from a parentheses capture group, or a named 
-capture group |
+| \n | Contains the result of nth earlier submatch from a parentheses capture group, or a named capture group |
 | (?:...) | Groups subpattern, but does not capture submatch |
 | * | Match 0 or more times |
 | +| Match 1 or more times |
