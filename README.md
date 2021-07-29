@@ -3,6 +3,7 @@
 
 ## Regular Expressions
 - Email
+- URL
 
 ## License
 - Distributed under the MIT License. See `LICENSE` for more information.
