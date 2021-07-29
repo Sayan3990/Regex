@@ -1,8 +1,8 @@
 | Metacharacters | Meaning |
 | ----- | ----- |
 | \a | Alert | 
-| \b Backspace |
-| \n Newline |
+| \b | Backspace |
+| \n | Newline |
 | \r | Carriage return |
 | \f | Form feed |
 | \t | Horizontal tab |
