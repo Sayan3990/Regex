@@ -1,13 +1,19 @@
 # Regular Expressions
 
 ### Email Validation
-- Any Email 
-  ```JS 
+- Any Email
+  ```JS
   /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/ 
   ```
 
 ### URL Validation
-- Any URL 
-  ```JS 
+- Any URL
+  ```JS
   /((www\.|(http|https|ftp|news|file)+\:\/\/)[_.a-z0-9-]+\.[a-z0-9\/_:@=.+?,##%&~-]*[^.|\'|\# |!|\(|?|,| |>|<|;|\)])/ 
+  ```
+  
+### Detect HTML Objects
+- links
+  ```JS
+  /<a.*?href="(.*?)".*?>(.*?)<\/a>/ig
   ```
