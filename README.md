@@ -3,7 +3,9 @@ Regex [CheatSheet](https://github.com/Sayan3990/Regex/tree/main/CheatSheet) and 
 
 ## Regular Expressions
 - Email
+- PAN Card
 - URL
+- HTML Objects
 
 ## License
 - Distributed under the MIT License. See `LICENSE` for more information.
