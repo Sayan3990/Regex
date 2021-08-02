@@ -5,6 +5,7 @@ Regex [CheatSheet](https://github.com/Sayan3990/Regex/tree/main/CheatSheet) and 
 - Email
 - PAN Card
 - URL
+- IP Address
 - HTML Objects
 
 ## License
